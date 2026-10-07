@@ -1,0 +1,48 @@
+ppp:
+  data_dictionary: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/ppp-data-dictionary.xlsx
+  files:
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_150k_plus_240930.csv
+      name: public_150k_plus_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_1_240930.csv
+      name: public_up_to_150k_1_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_2_240930.csv
+      name: public_up_to_150k_2_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_3_240930.csv
+      name: public_up_to_150k_3_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_4_240930.csv
+      name: public_up_to_150k_4_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_5_240930.csv
+      name: public_up_to_150k_5_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_6_240930.csv
+      name: public_up_to_150k_6_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_7_240930.csv
+      name: public_up_to_150k_7_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_8_240930.csv
+      name: public_up_to_150k_8_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_9_240930.csv
+      name: public_up_to_150k_9_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_10_240930.csv
+      name: public_up_to_150k_10_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_11_240930.csv
+      name: public_up_to_150k_11_240930.csv
+    - url: https://data.sba.gov/sites/default/files/distribution/SBA-OCA-2022-07-001/public_up_to_150k_12_240930.csv
+      name: public_up_to_150k_12_240930.csv
+
+sba7a:
+  data_dictionary: https://data.sba.gov/sites/default/files/uploaded_resources/7a_504_foia_data_dictionary.xlsx
+  files:
+    - url: https://data.sba.gov/sites/default/files/uploaded_resources/FOIA_7a_FY2010_FY2019_asof_260630.csv
+      name: FOIA_7a_FY2010_FY2019_asof_260630.csv
+    - url: https://data.sba.gov/sites/default/files/uploaded_resources/FOIA_7a_FY2020_Present_asof_260630.csv
+      name: FOIA_7a_FY2020_Present_asof_260630.csv
+    - url: https://data.sba.gov/sites/default/files/uploaded_resources/FOIA_7a_FY2000_FY2009_asof_260630.csv
+      name: FOIA_7a_FY2000_FY2009_asof_260630.csv
+
+sba504:
+  files:
+    - url: https://data.sba.gov/sites/default/files/uploaded_resources/FOIA_504_FY2010_Present_asof_260630.csv
+      name: FOIA_504_FY2010_Present_asof_260630.csv
+
+census:
+  api_url: "https://api.census.gov/data/2022/ecnbasic?get=NAICS2022,NAICS2022_LABEL,PAYANN,RCPTOT,ESTAB,EMP&for=us:*"
+  cache_path: data/reference/census_ratios_2022.json

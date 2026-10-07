@@ -1,0 +1,38 @@
+# Data files (too large for git)
+data/raw/
+data/processed/
+
+# Keep demo subset, reference data, and samples
+!data/demo/
+!data/demo/**
+!data/reference/
+!data/reference/**
+!data/samples/
+!data/samples/**
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Docker
+*.log
+
+# Test
+.pytest_cache/
+.coverage

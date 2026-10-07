@@ -1,0 +1,10 @@
+duckdb>=1.0.0
+rapidfuzz>=3.0.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
+sqlmodel>=0.0.8
+python-multipart>=0.0.5
+httpx>=0.24.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+pyyaml>=6.0

@@ -1,0 +1,97 @@
+Company,Industry,Address,City,State,Zip,Phone,Website,BBB Rating,Estimated Revenue
+Martinez HVAC Services LLC,Heating and Air Conditioning,1420 Oak Street,Los Angeles,CA,90001,213-555-0101,www.martinezhvac.com,A+,$2.5M
+Pacific Coast Plumbing Inc,Plumbing,892 Harbor Blvd,San Diego,CA,92101,619-555-0202,www.pacificcoastplumbing.com,A,$1.8M
+Lone Star Dental Group,Dental Practice,3301 Main Street,Houston,TX,77002,713-555-0303,www.lonestardental.com,A+,$4.2M
+Texas Commercial Roofing LLC,Roofing Contractor,7800 Industrial Blvd,Dallas,TX,75201,214-555-0404,www.txcommroofing.com,A,$3.1M
+Sunshine State Landscaping,Landscaping Services,450 Palm Avenue,Miami,FL,33101,305-555-0505,www.sunstatelandscaping.com,B+,$900K
+Gulf Coast Auto Repair Inc,Automotive Repair,2200 Gulf Freeway,Tampa,FL,33602,813-555-0606,www.gulfcoastauto.com,A,$1.2M
+Desert Sun Electric Co,Electrical Contractor,5501 Camelback Rd,Phoenix,AZ,85018,602-555-0707,www.desertsunelectric.com,A+,$2.8M
+Cactus Valley Machine Shop,Machine Shop,8800 Industrial Way,Tucson,AZ,85701,520-555-0808,www.cactusvalleymachine.com,A,$1.5M
+Bay Area Moving & Storage,Moving Company,1100 Market St,San Francisco,CA,94103,415-555-0909,www.bayareamoving.com,A,$3.5M
+Johnson & Associates CPA,Accounting Services,200 Congress Ave,Austin,TX,78701,512-555-1010,www.johnsoncpa.com,A+,$2.0M
+Premier Pest Control Services,Pest Control,345 Orange Blossom Trail,Orlando,FL,32801,407-555-1111,www.premierpest.com,A,$750K
+Arizona Waste Solutions LLC,Waste Collection,9200 N 19th Ave,Phoenix,AZ,85021,602-555-1212,www.azwaste.com,A,$4.5M
+Golden Gate Dental Arts,Dental Practice,700 Montgomery St,San Francisco,CA,94111,415-555-1313,www.goldengatedental.com,A+,$3.8M
+Dallas Freight Logistics Inc,Trucking,4400 Harry Hines Blvd,Dallas,TX,75235,214-555-1414,www.dallasfreight.com,A,$8.2M
+Tampa Bay Cleaning Services,Janitorial Services,1800 N Dale Mabry,Tampa,FL,33607,813-555-1515,www.tbcleaning.com,B,$500K
+Scottsdale Physical Therapy,Physical Therapy,7300 E Shea Blvd,Scottsdale,AZ,85260,480-555-1616,www.scottpt.com,A+,$1.1M
+Central California Farms LLC,Agriculture,Rural Route 5,Fresno,CA,93706,559-555-1717,www.centralcalfarms.com,NR,$12M
+Houston Steel Fabricators,Metal Fabrication,11200 East Fwy,Houston,TX,77029,713-555-1818,www.houstonsteel.com,A,$6.5M
+Orlando Resort Management Inc,Hotel Management,8000 International Dr,Orlando,FL,32819,407-555-1919,www.orlandoresort.com,A+,$15M
+Mesa Family Dentistry PC,Dental Practice,1545 S Power Rd,Mesa,AZ,85206,480-555-2020,www.mesafamilydentistry.com,A,$2.2M
+Silicon Valley Tech Solutions,IT Services,900 De Anza Blvd,Cupertino,CA,95014,408-555-2121,www.svtechsolutions.com,A,$5.0M
+San Antonio Concrete Inc,Concrete Contractor,6600 S Presa St,San Antonio,TX,78223,210-555-2222,www.saconcretecomp.com,A,$2.9M
+Fort Lauderdale Marine Services,Boat Repair,2500 SE 17th St,Fort Lauderdale,FL,33316,954-555-2323,www.ftlmarine.com,A+,$1.7M
+Tempe Air Conditioning Inc,HVAC,3200 S Rural Rd,Tempe,AZ,85282,480-555-2424,www.tempeac.com,A,$1.9M
+Sacramento Veterinary Clinic,Veterinary Services,4100 Folsom Blvd,Sacramento,CA,95819,916-555-2525,www.sacvet.com,A+,$1.4M
+Corpus Christi Welding LLC,Welding Services,1800 Navigation Blvd,Corpus Christi,TX,78401,361-555-2626,www.ccwelding.com,A,$800K
+Jacksonville Tree Service,Tree Trimming,5500 Beach Blvd,Jacksonville,FL,32207,904-555-2727,www.jaxtreeservice.com,B+,$600K
+Flagstaff Construction Co,General Contractor,2100 N West St,Flagstaff,AZ,86001,928-555-2828,www.flagstaffconstruction.com,A,$3.4M
+Long Beach Printing Inc,Commercial Printing,3800 E Spring St,Long Beach,CA,90806,562-555-2929,www.lbprinting.com,A,$2.1M
+El Paso Insurance Agency,Insurance,700 N Mesa St,El Paso,TX,79901,915-555-3030,www.elpasoia.com,A+,$1.6M
+Pensacola HVAC Specialists,Heating and Air Conditioning,3100 Cervantes St,Pensacola,FL,32503,850-555-3131,www.pensacolahvac.com,A,$1.3M
+Yuma Trucking Services LLC,Trucking,1400 S 4th Ave,Yuma,AZ,85364,928-555-3232,www.yumatrucking.com,A,$5.8M
+Bakersfield Oil Equipment,Oil Field Equipment,7200 Rosedale Hwy,Bakersfield,CA,93308,661-555-3333,www.bakersfieldoil.com,A,$7.5M
+Plano Family Medicine,Medical Practice,2800 W 15th St,Plano,TX,75075,972-555-3434,www.planofammed.com,A+,$3.0M
+Clearwater Boat Sales Inc,Boat Dealer,1000 Cleveland St,Clearwater,FL,33755,727-555-3535,www.clearwaterboats.com,A,$9.5M
+Gilbert Chiropractic Center,Chiropractic,1200 E Warner Rd,Gilbert,AZ,85296,480-555-3636,www.gilbertchiro.com,A,$700K
+Modesto Dairy Equipment Co,Farm Equipment,5500 McHenry Ave,Modesto,CA,95356,209-555-3737,www.modestodairy.com,NR,$4.0M
+Amarillo Fence Company,Fencing Contractor,3400 Canyon Dr,Amarillo,TX,79109,806-555-3838,www.amarillofence.com,A,$1.0M
+Naples Luxury Landscaping LLC,Landscaping,850 5th Ave S,Naples,FL,34102,239-555-3939,www.naplesluxuryland.com,A+,$2.4M
+Chandler Pool & Spa,Pool Services,2700 W Chandler Blvd,Chandler,AZ,85224,480-555-4040,www.chandlerpoolspa.com,A,$1.1M
+Redding Lumber Supply Inc,Building Materials,6100 Market St,Redding,CA,96001,530-555-4141,www.reddinglumber.com,A,$6.0M
+Lubbock Commercial Painting,Painting Contractor,4800 Avenue Q,Lubbock,TX,79412,806-555-4242,www.lubbockpainting.com,A,$900K
+St Petersburg Dental Center,Dental Practice,200 Central Ave,St Petersburg,FL,33701,727-555-4343,www.stpetedental.com,A+,$2.6M
+Peoria Plumbing Solutions,Plumbing,8400 W Peoria Ave,Peoria,AZ,85345,623-555-4444,www.peoriaplumbing.com,A,$1.5M
+Napa Valley Event Catering,Catering Services,1300 1st St,Napa,CA,94559,707-555-4545,www.napavalleycatering.com,A+,$1.8M
+Fort Worth Sheet Metal Inc,Sheet Metal Work,5200 E Lancaster Ave,Fort Worth,TX,76112,817-555-4646,www.ftwsheetmetal.com,A,$2.7M
+Daytona Beach Surf Shop,Retail - Sporting Goods,300 N Atlantic Ave,Daytona Beach,FL,32118,386-555-4747,www.daytonasurf.com,B,$350K
+Prescott Fire Protection LLC,Fire Protection,1600 Iron Springs Rd,Prescott,AZ,86301,928-555-4848,www.prescottfire.com,A,$2.0M
+Stockton Food Processing Inc,Food Manufacturing,8900 N Airport Way,Stockton,CA,95206,209-555-4949,www.stocktonfoodproc.com,NR,$11M
+Round Rock Physical Therapy,Physical Therapy,2000 S Mays St,Round Rock,TX,78664,512-555-5050,www.rrpt.com,A+,$950K
+Sarasota Interior Design LLC,Interior Design,1400 Main St,Sarasota,FL,34236,941-555-5151,www.sarasotainterior.com,A,$600K
+Casa Grande Tire Center,Tire Dealer,1100 E Florence Blvd,Casa Grande,AZ,85122,520-555-5252,www.casagrandetire.com,A,$1.3M
+Riverside Staffing Solutions,Staffing Services,3700 Market St,Riverside,CA,92501,951-555-5353,www.riversidestaffing.com,A,$8.5M
+Beaumont Auto Body Inc,Auto Body Repair,4300 College St,Beaumont,TX,77707,409-555-5454,www.beaumontautobody.com,A,$1.1M
+Key West Fishing Charters,Charter Fishing,2000 N Roosevelt Blvd,Key West,FL,33040,305-555-5555,www.kwfishing.com,A+,$400K
+Lake Havasu Boat Repair,Boat Repair,1700 McCulloch Blvd,Lake Havasu City,AZ,86403,928-555-5656,www.lhcboatrepair.com,A,$800K
+Oakland Security Services Inc,Security Guard Services,1500 Broadway,Oakland,CA,94612,510-555-5757,www.oaklandsecurity.com,A,$3.2M
+Waco Veterinary Hospital,Veterinary Services,3100 Franklin Ave,Waco,TX,76710,254-555-5858,www.wacovet.com,A+,$1.6M
+Tallahassee Office Supplies,Office Supply Store,2800 N Monroe St,Tallahassee,FL,32303,850-555-5959,www.tallahasseeoffice.com,B+,$2.0M
+Sedona Art Gallery LLC,Art Dealer,300 Art Barn Rd,Sedona,AZ,86336,928-555-6060,www.sedonaartgallery.com,A,$500K
+Visalia Agricultural Supply,Farm Supply Store,3900 S Mooney Blvd,Visalia,CA,93277,559-555-6161,www.visaliaag.com,A,$5.5M
+Tyler Rose Nursery,Nursery & Garden Center,5600 S Broadway Ave,Tyler,TX,75703,903-555-6262,www.tylerrosenursery.com,A,$1.2M
+Panama City HVAC Service,Heating & Air,4200 W 23rd St,Panama City,FL,32405,850-555-6363,www.panamacityhvac.com,A,$1.0M
+Sierra Vista Urgent Care,Urgent Care Clinic,1900 E Fry Blvd,Sierra Vista,AZ,85635,520-555-6464,www.svurgentcare.com,A+,$2.5M
+Santa Rosa Property Mgmt,Property Management,600 Mendocino Ave,Santa Rosa,CA,95401,707-555-6565,www.srpropmgmt.com,A,$3.0M
+McAllen Produce Distribution,Wholesale Produce,8800 S 10th St,McAllen,TX,78503,956-555-6666,www.mcallenproduce.com,A,$12M
+Gainesville Veterinary Clinic,Veterinary Practice,2400 NW 43rd St,Gainesville,FL,32606,352-555-6767,www.gainesvillevet.com,A+,$1.8M
+Goodyear Auto Glass,Auto Glass Repair,1200 N Litchfield Rd,Goodyear,AZ,85338,623-555-6868,www.goodyearautoglass.com,A,$900K
+Fresno Floor Covering Inc,Flooring Contractor,4400 N Blackstone Ave,Fresno,CA,93726,559-555-6969,www.fresnofloor.com,A,$2.3M
+Midland Pump Services LLC,Oil Well Services,7700 W Industrial Ave,Midland,TX,79703,432-555-7070,www.midlandpump.com,A,$8.0M
+Ft Myers Pool Construction,Pool Construction,3600 Cleveland Ave,Fort Myers,FL,33901,239-555-7171,www.ftmyerspools.com,A,$2.8M
+Apache Junction Storage,Self Storage,2500 W Apache Trail,Apache Junction,AZ,85120,480-555-7272,www.ajstorage.com,A,$600K
+Chico Tree Service LLC,Tree Service,1800 Mangrove Ave,Chico,CA,95926,530-555-7373,www.chicotreeservice.com,A,$500K
+Odessa Welding & Fabrication,Welding,9100 E University Blvd,Odessa,TX,79762,432-555-7474,www.odessawelding.com,A,$1.4M
+Boca Raton Wealth Advisors,Financial Advisory,1200 S Federal Hwy,Boca Raton,FL,33432,561-555-7575,www.bocaratonwealth.com,A+,$3.5M
+Queen Creek Equine Center,Equine Services,28800 S Ellsworth Rd,Queen Creek,AZ,85142,480-555-7676,www.qcequine.com,A,$1.0M
+Monterey Bay Seafood Inc,Seafood Processing,600 Cannery Row,Monterey,CA,93940,831-555-7777,www.mbseafood.com,A,$6.8M
+Laredo Customs Brokerage,Customs Broker,2200 Santa Ursula Ave,Laredo,TX,78040,956-555-7878,www.laredocustoms.com,A,$4.0M
+Melbourne Air Conditioning,HVAC,3800 N Wickham Rd,Melbourne,FL,32935,321-555-7979,www.melbourneac.com,A,$1.5M
+Sun City Assisted Living,Assisted Living,10200 W Thunderbird Blvd,Sun City,AZ,85351,623-555-8080,www.suncityassistedliving.com,A+,$4.0M
+Eureka Lumber Company,Lumber & Building Materials,2400 Broadway,Eureka,CA,95501,707-555-8181,www.eurekalumber.com,A,$3.5M
+Killeen Janitorial Services,Commercial Cleaning,1600 S Fort Hood St,Killeen,TX,76541,254-555-8282,www.killeenjanitorial.com,B+,$400K
+Lakeland Electrical Contractors,Electrical,2200 S Florida Ave,Lakeland,FL,33803,863-555-8383,www.lakelandelectric.com,A,$2.1M
+Payson Excavation Inc,Excavation,700 S Beeline Hwy,Payson,AZ,85541,928-555-8484,www.paysonexcavation.com,A,$1.8M
+San Bernardino Glass Co,Glass Contractor,1900 E Highland Ave,San Bernardino,CA,92404,909-555-8585,www.sanbernoglass.com,A,$1.6M
+Abilene Fence & Deck,Fence & Deck Contractor,3200 S Treadaway Blvd,Abilene,TX,79602,325-555-8686,www.abilenefence.com,A,$700K
+Port St Lucie Lawn Care,Lawn Service,1800 SE Port St Lucie Blvd,Port St Lucie,FL,34952,772-555-8787,www.pslawncare.com,B+,$450K
+Maricopa County Paving LLC,Paving Contractor,6400 W McDowell Rd,Phoenix,AZ,85035,602-555-8888,www.maricopapaving.com,A,$5.5M
+Salinas Agricultural Packing,Produce Packing,900 Abbott St,Salinas,CA,93901,831-555-8989,www.salinaspacking.com,A,$9.0M
+College Station Veterinary,Veterinary Practice,2800 Texas Ave S,College Station,TX,77840,979-555-9090,www.csvet.com,A+,$1.3M
+Ocala Horse Transport Inc,Horse Transportation,4500 NW Blitchton Rd,Ocala,FL,34482,352-555-9191,www.ocalatransport.com,A,$2.0M
+Surprise Family Practice,Family Medicine,14800 W Grand Ave,Surprise,AZ,85374,623-555-9292,www.surprisefp.com,A+,$2.2M
+Palm Springs Resort Mgmt,Hotel Management,400 E Tahquitz Canyon Way,Palm Springs,CA,92262,760-555-9393,www.psresortmgmt.com,A,$7.0M
+Brownsville Shrimp Co LLC,Seafood Processing,1200 E Elizabeth St,Brownsville,TX,78520,956-555-9494,www.brownsvilleshrimp.com,A,$5.0M
+Winter Haven Citrus Growers,Citrus Processing,3000 Cypress Gardens Blvd,Winter Haven,FL,33880,863-555-9595,www.whcitrus.com,A,$8.0M
+Kingman Propane & Gas,Propane Distributor,3100 N Stockton Hill Rd,Kingman,AZ,86401,928-555-9696,www.kingmanpropane.com,A,$2.5M

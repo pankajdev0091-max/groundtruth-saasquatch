@@ -1,0 +1,716 @@
+{
+  "23": {
+    "naics": "23",
+    "label": "Construction",
+    "revenue_per_payroll_dollar": 3.52,
+    "naics_level": 2
+  },
+  "236": {
+    "naics": "236",
+    "label": "Construction of Buildings",
+    "revenue_per_payroll_dollar": 4.18,
+    "naics_level": 3
+  },
+  "2361": {
+    "naics": "2361",
+    "label": "Residential Building Construction",
+    "revenue_per_payroll_dollar": 4.45,
+    "naics_level": 4
+  },
+  "2362": {
+    "naics": "2362",
+    "label": "Nonresidential Building Construction",
+    "revenue_per_payroll_dollar": 3.91,
+    "naics_level": 4
+  },
+  "237": {
+    "naics": "237",
+    "label": "Heavy and Civil Engineering Construction",
+    "revenue_per_payroll_dollar": 3.25,
+    "naics_level": 3
+  },
+  "238": {
+    "naics": "238",
+    "label": "Specialty Trade Contractors",
+    "revenue_per_payroll_dollar": 3.15,
+    "naics_level": 3
+  },
+  "2381": {
+    "naics": "2381",
+    "label": "Foundation, Structure, and Building Exterior Contractors",
+    "revenue_per_payroll_dollar": 3.22,
+    "naics_level": 4
+  },
+  "2382": {
+    "naics": "2382",
+    "label": "Building Equipment Contractors",
+    "revenue_per_payroll_dollar": 3.08,
+    "naics_level": 4
+  },
+  "23822": {
+    "naics": "23822",
+    "label": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "revenue_per_payroll_dollar": 3.12,
+    "naics_level": 5
+  },
+  "238220": {
+    "naics": "238220",
+    "label": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "revenue_per_payroll_dollar": 3.12,
+    "naics_level": 6
+  },
+  "23821": {
+    "naics": "23821",
+    "label": "Electrical Contractors and Other Wiring Installation Contractors",
+    "revenue_per_payroll_dollar": 2.95,
+    "naics_level": 5
+  },
+  "238210": {
+    "naics": "238210",
+    "label": "Electrical Contractors and Other Wiring Installation Contractors",
+    "revenue_per_payroll_dollar": 2.95,
+    "naics_level": 6
+  },
+  "2383": {
+    "naics": "2383",
+    "label": "Building Finishing Contractors",
+    "revenue_per_payroll_dollar": 3.05,
+    "naics_level": 4
+  },
+  "2389": {
+    "naics": "2389",
+    "label": "Other Specialty Trade Contractors",
+    "revenue_per_payroll_dollar": 3.3,
+    "naics_level": 4
+  },
+  "31": {
+    "naics": "31",
+    "label": "Manufacturing (Food, Beverage, Textile)",
+    "revenue_per_payroll_dollar": 5.48,
+    "naics_level": 2
+  },
+  "32": {
+    "naics": "32",
+    "label": "Manufacturing (Wood, Paper, Chemical, Plastics)",
+    "revenue_per_payroll_dollar": 5.62,
+    "naics_level": 2
+  },
+  "33": {
+    "naics": "33",
+    "label": "Manufacturing (Metals, Machinery, Electronics)",
+    "revenue_per_payroll_dollar": 5.35,
+    "naics_level": 2
+  },
+  "311": {
+    "naics": "311",
+    "label": "Food Manufacturing",
+    "revenue_per_payroll_dollar": 7.25,
+    "naics_level": 3
+  },
+  "312": {
+    "naics": "312",
+    "label": "Beverage and Tobacco Product Manufacturing",
+    "revenue_per_payroll_dollar": 6.8,
+    "naics_level": 3
+  },
+  "332": {
+    "naics": "332",
+    "label": "Fabricated Metal Product Manufacturing",
+    "revenue_per_payroll_dollar": 3.85,
+    "naics_level": 3
+  },
+  "3327": {
+    "naics": "3327",
+    "label": "Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",
+    "revenue_per_payroll_dollar": 3.42,
+    "naics_level": 4
+  },
+  "33271": {
+    "naics": "33271",
+    "label": "Machine Shops",
+    "revenue_per_payroll_dollar": 3.28,
+    "naics_level": 5
+  },
+  "332710": {
+    "naics": "332710",
+    "label": "Machine Shops",
+    "revenue_per_payroll_dollar": 3.28,
+    "naics_level": 6
+  },
+  "333": {
+    "naics": "333",
+    "label": "Machinery Manufacturing",
+    "revenue_per_payroll_dollar": 4.1,
+    "naics_level": 3
+  },
+  "336": {
+    "naics": "336",
+    "label": "Transportation Equipment Manufacturing",
+    "revenue_per_payroll_dollar": 5.85,
+    "naics_level": 3
+  },
+  "42": {
+    "naics": "42",
+    "label": "Wholesale Trade",
+    "revenue_per_payroll_dollar": 8.05,
+    "naics_level": 2
+  },
+  "423": {
+    "naics": "423",
+    "label": "Merchant Wholesalers, Durable Goods",
+    "revenue_per_payroll_dollar": 7.6,
+    "naics_level": 3
+  },
+  "424": {
+    "naics": "424",
+    "label": "Merchant Wholesalers, Nondurable Goods",
+    "revenue_per_payroll_dollar": 9.85,
+    "naics_level": 3
+  },
+  "425": {
+    "naics": "425",
+    "label": "Wholesale Trade Agents and Brokers",
+    "revenue_per_payroll_dollar": 5.2,
+    "naics_level": 3
+  },
+  "44": {
+    "naics": "44",
+    "label": "Retail Trade",
+    "revenue_per_payroll_dollar": 6.55,
+    "naics_level": 2
+  },
+  "45": {
+    "naics": "45",
+    "label": "Retail Trade",
+    "revenue_per_payroll_dollar": 6.4,
+    "naics_level": 2
+  },
+  "441": {
+    "naics": "441",
+    "label": "Motor Vehicle and Parts Dealers",
+    "revenue_per_payroll_dollar": 9.2,
+    "naics_level": 3
+  },
+  "444": {
+    "naics": "444",
+    "label": "Building Material and Garden Equipment and Supplies Dealers",
+    "revenue_per_payroll_dollar": 6.85,
+    "naics_level": 3
+  },
+  "445": {
+    "naics": "445",
+    "label": "Food and Beverage Retailers",
+    "revenue_per_payroll_dollar": 7.1,
+    "naics_level": 3
+  },
+  "48": {
+    "naics": "48",
+    "label": "Transportation",
+    "revenue_per_payroll_dollar": 3.95,
+    "naics_level": 2
+  },
+  "49": {
+    "naics": "49",
+    "label": "Warehousing and Storage",
+    "revenue_per_payroll_dollar": 3.15,
+    "naics_level": 2
+  },
+  "484": {
+    "naics": "484",
+    "label": "Truck Transportation",
+    "revenue_per_payroll_dollar": 3.72,
+    "naics_level": 3
+  },
+  "4841": {
+    "naics": "4841",
+    "label": "General Freight Trucking",
+    "revenue_per_payroll_dollar": 3.65,
+    "naics_level": 4
+  },
+  "48411": {
+    "naics": "48411",
+    "label": "General Freight Trucking, Local",
+    "revenue_per_payroll_dollar": 3.45,
+    "naics_level": 5
+  },
+  "484110": {
+    "naics": "484110",
+    "label": "General Freight Trucking, Local",
+    "revenue_per_payroll_dollar": 3.45,
+    "naics_level": 6
+  },
+  "48412": {
+    "naics": "48412",
+    "label": "General Freight Trucking, Long-Distance",
+    "revenue_per_payroll_dollar": 3.8,
+    "naics_level": 5
+  },
+  "484120": {
+    "naics": "484120",
+    "label": "General Freight Trucking, Long-Distance",
+    "revenue_per_payroll_dollar": 3.8,
+    "naics_level": 6
+  },
+  "4842": {
+    "naics": "4842",
+    "label": "Specialized Freight Trucking",
+    "revenue_per_payroll_dollar": 3.82,
+    "naics_level": 4
+  },
+  "485": {
+    "naics": "485",
+    "label": "Transit and Ground Passenger Transportation",
+    "revenue_per_payroll_dollar": 2.85,
+    "naics_level": 3
+  },
+  "51": {
+    "naics": "51",
+    "label": "Information",
+    "revenue_per_payroll_dollar": 4.52,
+    "naics_level": 2
+  },
+  "511": {
+    "naics": "511",
+    "label": "Publishing Industries",
+    "revenue_per_payroll_dollar": 3.85,
+    "naics_level": 3
+  },
+  "517": {
+    "naics": "517",
+    "label": "Telecommunications",
+    "revenue_per_payroll_dollar": 5.1,
+    "naics_level": 3
+  },
+  "52": {
+    "naics": "52",
+    "label": "Finance and Insurance",
+    "revenue_per_payroll_dollar": 5.95,
+    "naics_level": 2
+  },
+  "522": {
+    "naics": "522",
+    "label": "Credit Intermediation and Related Activities",
+    "revenue_per_payroll_dollar": 5.4,
+    "naics_level": 3
+  },
+  "524": {
+    "naics": "524",
+    "label": "Insurance Carriers and Related Activities",
+    "revenue_per_payroll_dollar": 6.5,
+    "naics_level": 3
+  },
+  "53": {
+    "naics": "53",
+    "label": "Real Estate and Rental and Leasing",
+    "revenue_per_payroll_dollar": 6.45,
+    "naics_level": 2
+  },
+  "531": {
+    "naics": "531",
+    "label": "Real Estate",
+    "revenue_per_payroll_dollar": 6.8,
+    "naics_level": 3
+  },
+  "532": {
+    "naics": "532",
+    "label": "Rental and Leasing Services",
+    "revenue_per_payroll_dollar": 5.9,
+    "naics_level": 3
+  },
+  "54": {
+    "naics": "54",
+    "label": "Professional, Scientific, and Technical Services",
+    "revenue_per_payroll_dollar": 2.05,
+    "naics_level": 2
+  },
+  "541": {
+    "naics": "541",
+    "label": "Professional, Scientific, and Technical Services",
+    "revenue_per_payroll_dollar": 2.05,
+    "naics_level": 3
+  },
+  "5411": {
+    "naics": "5411",
+    "label": "Legal Services",
+    "revenue_per_payroll_dollar": 2.15,
+    "naics_level": 4
+  },
+  "5412": {
+    "naics": "5412",
+    "label": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+    "revenue_per_payroll_dollar": 2.1,
+    "naics_level": 4
+  },
+  "5413": {
+    "naics": "5413",
+    "label": "Architectural, Engineering, and Related Services",
+    "revenue_per_payroll_dollar": 2.25,
+    "naics_level": 4
+  },
+  "5415": {
+    "naics": "5415",
+    "label": "Computer Systems Design and Related Services",
+    "revenue_per_payroll_dollar": 1.85,
+    "naics_level": 4
+  },
+  "5416": {
+    "naics": "5416",
+    "label": "Management, Scientific, and Technical Consulting Services",
+    "revenue_per_payroll_dollar": 2.0,
+    "naics_level": 4
+  },
+  "5417": {
+    "naics": "5417",
+    "label": "Scientific Research and Development Services",
+    "revenue_per_payroll_dollar": 1.75,
+    "naics_level": 4
+  },
+  "56": {
+    "naics": "56",
+    "label": "Administrative and Support and Waste Management Services",
+    "revenue_per_payroll_dollar": 2.48,
+    "naics_level": 2
+  },
+  "561": {
+    "naics": "561",
+    "label": "Administrative and Support Services",
+    "revenue_per_payroll_dollar": 2.35,
+    "naics_level": 3
+  },
+  "5617": {
+    "naics": "5617",
+    "label": "Services to Buildings and Dwellings",
+    "revenue_per_payroll_dollar": 2.55,
+    "naics_level": 4
+  },
+  "56173": {
+    "naics": "56173",
+    "label": "Landscaping Services",
+    "revenue_per_payroll_dollar": 2.65,
+    "naics_level": 5
+  },
+  "561730": {
+    "naics": "561730",
+    "label": "Landscaping Services",
+    "revenue_per_payroll_dollar": 2.65,
+    "naics_level": 6
+  },
+  "56171": {
+    "naics": "56171",
+    "label": "Exterminating and Pest Control Services",
+    "revenue_per_payroll_dollar": 2.8,
+    "naics_level": 5
+  },
+  "561710": {
+    "naics": "561710",
+    "label": "Exterminating and Pest Control Services",
+    "revenue_per_payroll_dollar": 2.8,
+    "naics_level": 6
+  },
+  "56172": {
+    "naics": "56172",
+    "label": "Janitorial Services",
+    "revenue_per_payroll_dollar": 2.22,
+    "naics_level": 5
+  },
+  "561720": {
+    "naics": "561720",
+    "label": "Janitorial Services",
+    "revenue_per_payroll_dollar": 2.22,
+    "naics_level": 6
+  },
+  "562": {
+    "naics": "562",
+    "label": "Waste Management and Remediation Services",
+    "revenue_per_payroll_dollar": 3.2,
+    "naics_level": 3
+  },
+  "5621": {
+    "naics": "5621",
+    "label": "Waste Collection",
+    "revenue_per_payroll_dollar": 3.35,
+    "naics_level": 4
+  },
+  "61": {
+    "naics": "61",
+    "label": "Educational Services",
+    "revenue_per_payroll_dollar": 1.82,
+    "naics_level": 2
+  },
+  "611": {
+    "naics": "611",
+    "label": "Educational Services",
+    "revenue_per_payroll_dollar": 1.82,
+    "naics_level": 3
+  },
+  "62": {
+    "naics": "62",
+    "label": "Health Care and Social Assistance",
+    "revenue_per_payroll_dollar": 2.52,
+    "naics_level": 2
+  },
+  "621": {
+    "naics": "621",
+    "label": "Ambulatory Health Care Services",
+    "revenue_per_payroll_dollar": 2.65,
+    "naics_level": 3
+  },
+  "6211": {
+    "naics": "6211",
+    "label": "Offices of Physicians",
+    "revenue_per_payroll_dollar": 2.45,
+    "naics_level": 4
+  },
+  "6212": {
+    "naics": "6212",
+    "label": "Offices of Dentists",
+    "revenue_per_payroll_dollar": 2.85,
+    "naics_level": 4
+  },
+  "62121": {
+    "naics": "62121",
+    "label": "Offices of Dentists",
+    "revenue_per_payroll_dollar": 2.85,
+    "naics_level": 5
+  },
+  "621210": {
+    "naics": "621210",
+    "label": "Offices of Dentists",
+    "revenue_per_payroll_dollar": 2.85,
+    "naics_level": 6
+  },
+  "6213": {
+    "naics": "6213",
+    "label": "Offices of Other Health Practitioners",
+    "revenue_per_payroll_dollar": 2.6,
+    "naics_level": 4
+  },
+  "6214": {
+    "naics": "6214",
+    "label": "Outpatient Care Centers",
+    "revenue_per_payroll_dollar": 2.7,
+    "naics_level": 4
+  },
+  "6216": {
+    "naics": "6216",
+    "label": "Home Health Care Services",
+    "revenue_per_payroll_dollar": 1.65,
+    "naics_level": 4
+  },
+  "622": {
+    "naics": "622",
+    "label": "Hospitals",
+    "revenue_per_payroll_dollar": 2.3,
+    "naics_level": 3
+  },
+  "623": {
+    "naics": "623",
+    "label": "Nursing and Residential Care Facilities",
+    "revenue_per_payroll_dollar": 2.15,
+    "naics_level": 3
+  },
+  "624": {
+    "naics": "624",
+    "label": "Social Assistance",
+    "revenue_per_payroll_dollar": 1.9,
+    "naics_level": 3
+  },
+  "71": {
+    "naics": "71",
+    "label": "Arts, Entertainment, and Recreation",
+    "revenue_per_payroll_dollar": 3.05,
+    "naics_level": 2
+  },
+  "711": {
+    "naics": "711",
+    "label": "Performing Arts, Spectator Sports, and Related Industries",
+    "revenue_per_payroll_dollar": 3.45,
+    "naics_level": 3
+  },
+  "713": {
+    "naics": "713",
+    "label": "Amusement, Gambling, and Recreation Industries",
+    "revenue_per_payroll_dollar": 2.9,
+    "naics_level": 3
+  },
+  "72": {
+    "naics": "72",
+    "label": "Accommodation and Food Services",
+    "revenue_per_payroll_dollar": 3.48,
+    "naics_level": 2
+  },
+  "721": {
+    "naics": "721",
+    "label": "Accommodation",
+    "revenue_per_payroll_dollar": 3.85,
+    "naics_level": 3
+  },
+  "7211": {
+    "naics": "7211",
+    "label": "Traveler Accommodation",
+    "revenue_per_payroll_dollar": 3.92,
+    "naics_level": 4
+  },
+  "722": {
+    "naics": "722",
+    "label": "Food Services and Drinking Places",
+    "revenue_per_payroll_dollar": 3.3,
+    "naics_level": 3
+  },
+  "7225": {
+    "naics": "7225",
+    "label": "Restaurants and Other Eating Places",
+    "revenue_per_payroll_dollar": 3.25,
+    "naics_level": 4
+  },
+  "72251": {
+    "naics": "72251",
+    "label": "Restaurants and Other Eating Places",
+    "revenue_per_payroll_dollar": 3.25,
+    "naics_level": 5
+  },
+  "722511": {
+    "naics": "722511",
+    "label": "Full-Service Restaurants",
+    "revenue_per_payroll_dollar": 3.15,
+    "naics_level": 6
+  },
+  "722513": {
+    "naics": "722513",
+    "label": "Limited-Service Restaurants",
+    "revenue_per_payroll_dollar": 3.55,
+    "naics_level": 6
+  },
+  "722515": {
+    "naics": "722515",
+    "label": "Snack and Nonalcoholic Beverage Bars",
+    "revenue_per_payroll_dollar": 3.4,
+    "naics_level": 6
+  },
+  "7224": {
+    "naics": "7224",
+    "label": "Drinking Places (Alcoholic Beverages)",
+    "revenue_per_payroll_dollar": 3.7,
+    "naics_level": 4
+  },
+  "81": {
+    "naics": "81",
+    "label": "Other Services (except Public Administration)",
+    "revenue_per_payroll_dollar": 2.52,
+    "naics_level": 2
+  },
+  "811": {
+    "naics": "811",
+    "label": "Repair and Maintenance",
+    "revenue_per_payroll_dollar": 3.15,
+    "naics_level": 3
+  },
+  "8111": {
+    "naics": "8111",
+    "label": "Automotive Repair and Maintenance",
+    "revenue_per_payroll_dollar": 3.35,
+    "naics_level": 4
+  },
+  "81111": {
+    "naics": "81111",
+    "label": "Automotive Mechanical and Electrical Repair and Maintenance",
+    "revenue_per_payroll_dollar": 3.2,
+    "naics_level": 5
+  },
+  "811111": {
+    "naics": "811111",
+    "label": "General Automotive Repair",
+    "revenue_per_payroll_dollar": 3.18,
+    "naics_level": 6
+  },
+  "811118": {
+    "naics": "811118",
+    "label": "Other Automotive Mechanical and Electrical Repair and Maintenance",
+    "revenue_per_payroll_dollar": 3.25,
+    "naics_level": 6
+  },
+  "81112": {
+    "naics": "81112",
+    "label": "Automotive Body, Paint, Interior, and Glass Repair",
+    "revenue_per_payroll_dollar": 3.48,
+    "naics_level": 5
+  },
+  "8112": {
+    "naics": "8112",
+    "label": "Electronic and Precision Equipment Repair and Maintenance",
+    "revenue_per_payroll_dollar": 2.8,
+    "naics_level": 4
+  },
+  "8113": {
+    "naics": "8113",
+    "label": "Commercial and Industrial Machinery and Equipment Repair and Maintenance",
+    "revenue_per_payroll_dollar": 2.9,
+    "naics_level": 4
+  },
+  "8114": {
+    "naics": "8114",
+    "label": "Personal and Household Goods Repair and Maintenance",
+    "revenue_per_payroll_dollar": 3.05,
+    "naics_level": 4
+  },
+  "812": {
+    "naics": "812",
+    "label": "Personal and Laundry Services",
+    "revenue_per_payroll_dollar": 2.4,
+    "naics_level": 3
+  },
+  "8121": {
+    "naics": "8121",
+    "label": "Personal Care Services",
+    "revenue_per_payroll_dollar": 2.25,
+    "naics_level": 4
+  },
+  "8123": {
+    "naics": "8123",
+    "label": "Drycleaning and Laundry Services",
+    "revenue_per_payroll_dollar": 2.55,
+    "naics_level": 4
+  },
+  "813": {
+    "naics": "813",
+    "label": "Religious, Grantmaking, Civic, Professional Organizations",
+    "revenue_per_payroll_dollar": 1.85,
+    "naics_level": 3
+  },
+  "11": {
+    "naics": "11",
+    "label": "Agriculture, Forestry, Fishing and Hunting",
+    "revenue_per_payroll_dollar": 4.5,
+    "naics_level": 2
+  },
+  "21": {
+    "naics": "21",
+    "label": "Mining, Quarrying, and Oil and Gas Extraction",
+    "revenue_per_payroll_dollar": 5.8,
+    "naics_level": 2
+  },
+  "115": {
+    "naics": "115",
+    "label": "Support Activities for Agriculture and Forestry",
+    "revenue_per_payroll_dollar": 3.2,
+    "naics_level": 3
+  },
+  "213": {
+    "naics": "213",
+    "label": "Support Activities for Mining",
+    "revenue_per_payroll_dollar": 4.0,
+    "naics_level": 3
+  },
+  "213112": {
+    "naics": "213112",
+    "label": "Support Activities for Oil and Gas Operations",
+    "revenue_per_payroll_dollar": 4.2,
+    "naics_level": 6
+  },
+  "115210": {
+    "naics": "115210",
+    "label": "Support Activities for Animal Production",
+    "revenue_per_payroll_dollar": 2.8,
+    "naics_level": 6
+  }
+}
